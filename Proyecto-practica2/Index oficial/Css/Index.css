@@ -27,6 +27,16 @@
         color: rgba(122, 8, 8, 0.8);
     }
 }
+.logo {
+    margin-left: 30px;
+}
+
+.logo a {
+    text-decoration: none;
+    color: #f5efe8;
+    text-transform: uppercase;
+    font-size: 20px;
+}
 
 /* Estilos para dispositivos entre 400px y 800px de ancho */
 @media (min-width: 401px) and (max-width: 800px) {
